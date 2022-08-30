@@ -1,4 +1,5 @@
  Projeto 1
+<<<<<<< HEAD
  Implementação de cliente e servidor UDP comum utilizando a biblioteca Socket na linguagem Python, com envio de arquivo (daremos uma pasta de arquivos que devem funcionar) e devolução.
 
 Instruções de execução:
@@ -41,3 +42,6 @@ CLIENTE
 18- Fecha o socket no lado do Cliente.
 
 
+=======
+ Implementação de cliente e servidor UDP comum utilizando a biblioteca Socket na linguagem Python, com envio de arquivo e devolução.
+>>>>>>> d16d926b9a7f20cbce4026c52f3ba41bc13804fd
