@@ -41,7 +41,7 @@ CLIENTE
 17-Se nao, escreve o arquivo recebido que foi tranformado em bytes.
 18- Fecha o socket no lado do Cliente.
 
-
+Observação:dependendo da maquina e SO do usuário, o envio do arquivo pode demorar alguns segundos ou minuto.
 =======
  Implementação de cliente e servidor UDP comum utilizando a biblioteca Socket na linguagem Python, com envio de arquivo e devolução.
 >>>>>>> d16d926b9a7f20cbce4026c52f3ba41bc13804fd
